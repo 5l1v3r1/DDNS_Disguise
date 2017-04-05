@@ -21,4 +21,4 @@ python DDNS_Disguise.py
 ```
 
 ## Credits
-PyInfect was created by [@0xCoto](https://github.com/0xCoto).
+DDNS Disguise was created by [@0xCoto](https://github.com/0xCoto).
